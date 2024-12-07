@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+VRTest/[Ll]ibrary/
+/VRTest/[Tt]emp/
+/VRTest/[Ll]ogs/
+/VRTest/[Oo]bj/
+/VRTest/[Bb]uild/
+/VRTest/[Bb]uilds/
+VRTest/[Uu]ser[Ss]ettings/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
